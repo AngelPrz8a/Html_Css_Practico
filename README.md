@@ -1,5 +1,5 @@
 # FrontEnd_Html_Css_Practico
-A simple practice of html and css
+A simple practice of html and css, creating every view of a web store.
 
 ## Tech Stack
 Html
