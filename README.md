@@ -1,4 +1,4 @@
-# FrontEnd_Html_Css_Practico
+## Is only html and css, nothing special
 A simple practice of html and css, creating every view of a web store.
 
 ## Tech Stack
